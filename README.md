@@ -1,5 +1,5 @@
 # mdh-nuget-modell
 
-En modell för att hantera filer av typen packages.config i Java. Projektet
-innehåller en egen xsd baserad på
+En modell fÃ¶r att hantera filer av typen packages.config i Java. Projektet
+innehÃ¥ller en egen xsd baserad pÃ¥
 [dokumentationen](https://docs.microsoft.com/en-us/nuget/reference/packages-config).  
